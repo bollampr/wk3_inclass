@@ -1,1 +1,1 @@
-# wk3_inclass
+# 339 Week 3 in class CSS practice
